@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# PyInstaller build directories
+build/
+dist/
+*.spec
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environment directories
+env/
+venv/
+
+# Miscellaneous
+*.log
